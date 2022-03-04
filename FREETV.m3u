@@ -1,13 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="直播源完全免费",直播源为免费分享
-https://s4.ax1x.com/2022/02/24/biFtbt.jpg
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="直播源完全免费",禁止任何形式商用
-https://s4.ax1x.com/2022/02/24/biFtbt.jpg
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="直播源完全免费",任何牟利行为与作者无关
-https://s4.ax1x.com/2022/02/24/biFtbt.jpg
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="直播源完全免费",请关注油管"Vamos Chuck TV"频道
-https://s4.ax1x.com/2022/02/24/biFtbt.jpg
 
 
 
