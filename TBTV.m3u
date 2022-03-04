@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="1" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cctv1.png" group-title="央视卫视A",CCTV1
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228956/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="2" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cctv2.png" group-title="央视卫视A",CCTV2
