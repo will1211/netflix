@@ -341,9 +341,7 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="福建IPTV",民视新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="福建IPTV",东森新闻
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="福建IPTV",中国教育
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="福建IPTV",中国教育
 http://39.135.55.105:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="福建IPTV",东南卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
