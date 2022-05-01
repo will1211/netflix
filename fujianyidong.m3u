@@ -331,17 +331,17 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="福建IPTV",东森财经新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvbs_tw_news.png" group-title="福建IPTV",TVBS新闻
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/tvbs.png" group-title="福建IPTV",TVBS新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="福建IPTV",三立新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ctv_tw_news.png" group-title="福建IPTV",中视新闻
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/zsxw.png" group-title="福建IPTV",中视新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ttv-news-tw.png" group-title="福建IPTV",台视新闻
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/tsxw.png" group-title="福建IPTV",台视新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="福建IPTV",民视新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cetv-1-cn.png" group-title="福建IPTV",中国教育
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/zgjy.png" group-title="福建IPTV",中国教育
 http://39.135.55.105:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="福建IPTV",东南卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
