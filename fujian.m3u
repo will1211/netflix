@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CCTV13-HD
+rtsp://112.85.142.37:554/JSBC_iptv/C10000232@JSBC
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建IPTV",CCTV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="福建IPTV",CCTV2
