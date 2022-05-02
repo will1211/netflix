@@ -106,7 +106,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="福建IPTV",黑龙江卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="福建IPTV",宁夏卫视
-http://120.253.104.16:808/hls/286/index.m3u8
+
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建IPTV",厦门卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="福建IPTV",山西卫视
