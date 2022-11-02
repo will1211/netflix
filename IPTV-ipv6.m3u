@@ -7,9 +7,9 @@ http://[2409:8087:1070:301:2026::19]:80/wh7f454c46tw4192848808_638072957/gslbser
 http://[2409:8087:1070:301:2028::1e]:80/wh7f454c46tw4200914459_582749386/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/10000100000000060000000000869061_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际高清
 http://[2409:8087:1070:301:2026::11]:80/wh7f454c46tw4187117208_-1963502651/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225898/10000100000000060000000000373618_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="5" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育高清
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育高清
 http://[2409:8087:1070:301:2028::1e]:80/wh7f454c46tw4201204269_1958960221/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/10000100000000060000000000869060_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://[2409:8087:1070:301:2028::17]:80/wh7f454c46tw4041130952_-67052775/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225663/10000100000000060000000000000700_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影高清
 http://[2409:8087:1070:301:2028::21]:80/wh7f454c46tw4201475332_1412326992/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/10000100000000060000000000869059_0.smil/01.m3u8?fmt=ts2hls
