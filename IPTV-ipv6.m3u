@@ -36,15 +36,21 @@ http://[2409:8087:1070:301:2028::16]:80/wh7f454c46tw4208334097_1010666651/gslbse
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村高清
 http://[2409:8087:1020:301:2026::17]:80/wh7f454c46tw4204898348_1397044514/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/10000100000000060000000000899474_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/ztxw.png" group-title="港澳台",中天新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
+http://192.168.100.208:9500/live.m3u8?c=2
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+http://192.168.100.208:9500/live.m3u8?c=3
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻
+http://192.168.100.208:9500/live.m3u8?c=4
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/tvbs.png" group-title="港澳台",TVBS新闻
+http://192.168.100.208:9500/live.m3u8?c=5
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
+http://192.168.100.208:9500/live.m3u8?c=6
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/zsxw.png" group-title="港澳台",中视新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+http://192.168.100.208:9500/live.m3u8?c=1
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/tsxw.png" group-title="港澳台",台视新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+http://192.168.100.208:9500/live.m3u8?c=7
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+http://192.168.100.208:9500/live.m3u8?c=8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清
 http://[2409:8087:1070:301:2026::19]:80/wh7f454c46tw4189155186_-435981292/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225905/10000100000000060000000000373629_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视高清
