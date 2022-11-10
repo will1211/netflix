@@ -53,7 +53,7 @@ http://192.168.100.200:9500/live.m3u8?c=7
 http://192.168.100.200:9500/live.m3u8?c=8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/tvbs.png" group-title="港澳台",TVBS新闻
 http://192.168.100.200:9500/live.m3u8?c=5
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/will1211/netflix/main/SETNews.png" group-title="港澳台",三立新闻
 http://192.168.100.200:9500/live.m3u8?c=6
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清
 http://[2409:8087:1070:301:2026::19]:80/wh7f454c46tw4189155186_-435981292/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225905/10000100000000060000000000373629_0.smil/01.m3u8?fmt=ts2hls
