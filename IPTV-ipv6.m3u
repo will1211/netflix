@@ -58,7 +58,7 @@ http://192.168.100.100:9500/live.m3u8?c=6
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清
 http://[2409:8087:1070:301:2026::19]:80/wh7f454c46tw4189155186_-435981292/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225905/10000100000000060000000000373629_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视高清
-http://[2409:8087:1050:301:2026::17]:80/wh7f454c46tw4190579686_75477875/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225910/10000100000000060000000000373624_0.smil/01.m3u8?fmt=ts2hls
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225598/2/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清
 http://[2409:8087:1070:301:2026::24]:80/wh7f454c46tw4190002058_656791940/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225908/10000100000000060000000000373626_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
