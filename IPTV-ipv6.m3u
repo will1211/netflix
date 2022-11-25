@@ -82,9 +82,9 @@ http://[2409:8087:1070:301:2026::1b]:80/wh7f454c46tw4188873674_468547032/gslbser
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
 http://[2409:8087:1070:301:2026::19]:80/wh7f454c46tw4189717066_1081559196/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225907/10000100000000060000000000373627_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视高清
-http://[2409:8087:1050:301:2026::17]:80/wh7f454c46tw4190869796_-822635434/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225911/10000100000000060000000000373623_0.smil/01.m3u8?fmt=ts2hls
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225586/2/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
-http://[2409:8087:1020:301:2026::26]:80/wh7f454c46tw4120636476_168774050/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225733/10000100000000060000000000000770_0.smil/01.m3u8?fmt=ts2hls
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视高清
 http://[2409:8087:1070:301:2026::12]:80/wh7f454c46tw4187427743_515769253/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225899/10000100000000060000000000373635_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视高清
