@@ -34,7 +34,7 @@ http://[2409:8087:1070:301:2028::1b]:80/wh7f454c46tw4181033279_-29319549/gslbser
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克高清
 http://[2409:8087:1070:301:2028::16]:80/wh7f454c46tw4208334097_1010666651/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/10000100000000060000000000987372_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村高清
-http://[2409:8087:1020:301:2026::17]:80/wh7f454c46tw4204898348_1397044514/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/10000100000000060000000000899474_0.smil/01.m3u8?fmt=ts2hls
+http://[2409:8087:1070:301:2028::1c]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="85423" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="" tvg-name="85425" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
