@@ -24,7 +24,7 @@ http://171.13.115.66:808/hls/11/index.m3u8
 #EXTINF:-1,CCTV-12社会与法
 http://171.13.115.66:808/hls/12/index.m3u8
 #EXTINF:-1,CCTV-13新闻
-http://60.189.60.218:9999/udp/233.50.200.111:5140
+http://171.13.115.66:808/hls/13/index.m3u8
 #EXTINF:-1,CCTV-14少儿
 http://171.13.115.66:808/hls/14/index.m3u8
 #EXTINF:-1,CCTV-15音乐
