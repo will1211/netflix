@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,CCTV-1综合
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+http://lu.wqwqwq.sbs/itv/5000000004000002226.m3u8?cdn=bestzb
 #EXTINF:-1,CCTV-2财经
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907
 #EXTINF:-1,CCTV-3综艺
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=9476609640263440821
 #EXTINF:-1,CCTV-4中文国际
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://lu.wqwqwq.sbs/itv/5000000011000031102.m3u8?cdn=bestzb
 #EXTINF:-1,CCTV-5体育
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981
 #EXTINF:-1,CCTV-6电影
@@ -24,7 +24,7 @@ http://171.13.115.66:808/hls/11/index.m3u8
 #EXTINF:-1,CCTV-12社会与法
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730
 #EXTINF:-1,CCTV-13新闻
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+http://lu.wqwqwq.sbs/itv/5000000011000031108.m3u8?cdn=bestzb
 #EXTINF:-1,CCTV-14少儿
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
 #EXTINF:-1,CCTV-15音乐
