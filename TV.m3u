@@ -6,7 +6,7 @@ http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=182036
 #EXTINF:-1,CCTV-3综艺
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=9476609640263440821
 #EXTINF:-1,CCTV-4中文国际
-http://lu.wqwqwq.sbs/itv/5000000011000031102.m3u8?cdn=bestzb
+http://123.97.80.193:55555/udp/233.50.200.101:5140
 #EXTINF:-1,CCTV-5体育
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981
 #EXTINF:-1,CCTV-6电影
@@ -24,7 +24,7 @@ http://171.13.115.66:808/hls/11/index.m3u8
 #EXTINF:-1,CCTV-12社会与法
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730
 #EXTINF:-1,CCTV-13新闻
-http://lu.wqwqwq.sbs/itv/5000000011000031108.m3u8?cdn=bestzb
+http://183.144.25.143:3521/udp/233.50.201.246:5140
 #EXTINF:-1,CCTV-14少儿
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
 #EXTINF:-1,CCTV-15音乐
